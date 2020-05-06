@@ -1,0 +1,6 @@
+https://gumu.kr/blog/1010/r-konlp%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98-%EC%98%A4%EB%A5%98fail-to-install-scala-library-2-11-8-jar/
+https://e-koreatech.step.or.kr/
+
+https://cran.r-project.org/src/contrib/Archive/KoNLP/
+
+
